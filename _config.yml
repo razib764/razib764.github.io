@@ -1,0 +1,10 @@
+# Site settings
+title: Nazim Choudhury
+email: Nazim Choudhury
+description: "To Put Some Description"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
